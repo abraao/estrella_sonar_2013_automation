@@ -50,11 +50,11 @@ As part of the [S&oacute;nar 2013 music festival](http://www.sonar.es/en/2013/) 
 
 The contest consists of collecting 30 the stickers from bottles of Estrella (medium size, no [quintos](http://www.nytimes.com/fodors/top/features/travel/destinations/europe/spain/barcelona/fdrs_feat_23_11.html)) in order to *participate in the drawing an entry to the concert*. Each sticker contains an unique pormo code on the back that needs to be entered on the [contest website](http://concertinauguralsonar.estrelladamm.com/).
 
-![An used Estrella Damm code for the Pet Shop Boys concert](README_files/used_estrella_damm_code_for_the_pet_shop_boys_concert.jpg)
+![An used Estrella Damm code for the Pet Shop Boys concert](used_estrella_damm_code_for_the_pet_shop_boys_concert.jpg)
 
 When you have this many stickers ...
 
-![Way too many used Estrella Damm codes for the Pet Shop Boys concert](README_files/way_too_many_used_estrella_damm_code_for_the_pet_shop_boys_concert.jpg)
+![Way too many used Estrella Damm codes for the Pet Shop Boys concert](way_too_many_used_estrella_damm_code_for_the_pet_shop_boys_concert.jpg)
 
 ... it's worthwhile trying to find a way to automate the process.
 
